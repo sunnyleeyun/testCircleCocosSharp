@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8FA6C185-2156-42A1-83F5-BF0ADF93D047}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testCocosCircle/App.xaml.cs">
+    <Files>
+      <File FileName="testCocosCircle/HomePage.cs" Line="26" Column="26" />
+      <File FileName="testCocosCircle/App.xaml.cs" Line="11" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.testCocosCircle.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92D2E570-63DD-4AA0-B18E-3C29E752DEA8" />
+</Properties>
